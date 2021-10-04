@@ -1,5 +1,5 @@
 book_filename: "ebook"
-output_dir: "_docs"
+output_dir: "docs"
 delete_merged_file: true
 language:
   ui:

@@ -28,7 +28,7 @@ Pressupostos para elaboração do material didático:
 
 -   Os grupos que elaborarem cada aula/tema serão co-autores dos capítulos do ebook.
 
-## Construção do material didático: ideias gerais 
+## Construção do material didático: ideias gerais
 
 1.  A proposta é criar, em cada aula (capítulo aqui no livro) uma seção inicial com os conceitos fundamentais e os aspectos formais necessários ao entendimento dos conceitos. A ideia não é replicar os livros especializados, mas fazer uma transposição didática com foco na operacionalização para alunos que nunca viram o tema (partiremos desse pressuposto).
 2.  Na sequência, apresenta-se exemplos de artigos recentes que os conceitos e técnicas foram empregados, mostrando como construir uma análise empregando os conceitos e técnicas de análise.

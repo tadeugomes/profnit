@@ -1,0 +1,15 @@
+introdução
+objetivo-da-proposta
+proposta-de-programa-para-organização-das-aulasencontros
+intro
+análise-e-tratamento-de-informações-em-pesquisa-qualitativa.-métodos-de-análise-qualitativa-e-análise-de-conteúdo.
+organização-dos-dados-em-pesquisas-quantitativas-coleta-limpeza-tratamento-e-organização.-bases-de-dados.
+noções-de-probabilidade.-tipos-e-natureza-das-variáveis.-inferência-causal-e-contrafactuais-em-avaliação-em-políticas-públicas.
+análise-exploratória-dos-dados-e-visualização.-a-matriz-de-variância-covariância.-interpretação-dos-resultados.
+testes-de-hipóteses.-pareamento-em-avaliação-de-políticas-públicas.
+regressão-linear-simples-e-múltipla.-pls-mínimos-quadrados-parciais.-interpretação-dos-resultados.
+modelos-de-classificação-regressão-logística.-ou-regressão-descontínua-mais-utilizada-em-avaliação-de-políticas-públicas.
+regressão-linear-simples-e-múltipla.-pls-mínimos-quadrados-parciais.-interpretação-dos-resultados.-1
+mineração-de-textos-e-análise-léxica.
+métodos-e-técnicas-de-coleta-de-dados-em-pesquisa-qualitativa
+construção-do-material-didático-ideias-gerais

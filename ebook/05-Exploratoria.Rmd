@@ -1,0 +1,2 @@
+#Análise exploratória dos dados e Visualização.  A matriz de variância-covariância. Interpretação dos resultados.
+

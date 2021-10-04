@@ -11,3 +11,4 @@ regressão-linear-simples-e-múltipla.-pls-mínimos-quadrados-parciais.-interpre
 modelos-de-classificação-regressão-logística.-ou-regressão-descontínua-mais-utilizada-em-avaliação-de-políticas-públicas.
 regressão-linear-simples-e-múltipla.-pls-mínimos-quadrados-parciais.-interpretação-dos-resultados.-1
 mineração-de-textos-e-análise-léxica.
+análise-e-tratamento-de-informações-em-pesquisa-qualitativa.-métodos-para-análise-qualitativa-e-análise-de-conteúdo.-etnografia-e-netnografia.

@@ -7,6 +7,8 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
+fontsize: 12pt 
+geometry: a4paper
 description: "Material didático para a disciplina de *Pesquisa Tecnológica: Qualitativa e Quantitativa & Estatística Aplicada a PI&TT*."
 ---
 
@@ -51,7 +53,7 @@ Pressupostos para elaboração do material didático:
 |                    |                                                                                                                    |
 |                    |                                                                                                                    |
 +--------------------+--------------------------------------------------------------------------------------------------------------------+
-| Tadeu              | Aula 3                                                                                                             |
+| Tadeu Teixeira     | Aula 3                                                                                                             |
 |                    |                                                                                                                    |
 |                    | Organização dos dados: coleta, limpeza, tratamento e organização. Bases de dados.                                  |
 +--------------------+--------------------------------------------------------------------------------------------------------------------+
@@ -65,7 +67,7 @@ Pressupostos para elaboração do material didático:
 |                    |                                                                                                                    |
 |                    |                                                                                                                    |
 +--------------------+--------------------------------------------------------------------------------------------------------------------+
-| Tadeu              | Aula 5                                                                                                             |
+| Tadeu Teixeira     | Aula 5                                                                                                             |
 |                    |                                                                                                                    |
 |                    | Análise exploratória dos dados e Visualização.  A matriz de variância-covariância. Interpretação dos resultados.   |
 |                    |                                                                                                                    |
@@ -73,7 +75,7 @@ Pressupostos para elaboração do material didático:
 |                    |                                                                                                                    |
 |                    |                                                                                                                    |
 +--------------------+--------------------------------------------------------------------------------------------------------------------+
-|                    | Aula 6                                                                                                             |
+|   Thiago Moura      | Aula 6                                                                                                             |
 |                    |                                                                                                                    |
 |                    | Tipos e técnicas de amostragens.                                                                                   |
 |                    |                                                                                                                    |
@@ -87,7 +89,7 @@ Pressupostos para elaboração do material didático:
 |                    |                                                                                                                    |
 |                    | Pareamento em avaliação de políticas públicas.                                                                     |
 +--------------------+--------------------------------------------------------------------------------------------------------------------+
-|                    | Aula 8                                                                                                             |
+| Thiago Moura       | Aula 8                                                                                                             |
 |                    |                                                                                                                    |
 |                    | Regressão linear simples e múltipla. PLS: Mínimos Quadrados Parciais. Interpretação dos resultados.                |
 |                    |                                                                                                                    |
@@ -111,7 +113,7 @@ Pressupostos para elaboração do material didático:
 |                    |                                                                                                                    |
 |                    |                                                                                                                    |
 +--------------------+--------------------------------------------------------------------------------------------------------------------+
-| Tadeu              | Aula 11 - Mineração de textos e análise léxica.                                                                    |
+| Tadeu  Teixeira   | Aula 11 - Mineração de textos e análise léxica.                                                                    |
 |                    |                                                                                                                    |
 |                    |                                                                                                                    |
 +--------------------+--------------------------------------------------------------------------------------------------------------------+

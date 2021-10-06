@@ -2,5 +2,23 @@ book_filename: "ebook"
 output_dir: "docs"
 delete_merged_file: true
 language:
+  label:
+    fig: 'Figura '
+    tab: 'Tabela '
+    eq: 'Equação '
+    thm: 'Theorema '
+    lem: 'Lemma '
+    cor: 'Corollary '
+    prp: 'Proposition '
+    cnj: 'Conjecture '
+    def: 'Definition '
+    exm: 'Exemple '
+    exr: 'Exercício '
+    hyp: 'Hypothesis '
+    proof: 'Proof. '
+    remark: 'Remark. '
+    solution: 'Solution. '
   ui:
-    chapter_name: "Aula "
+    edit: Edit
+    chapter_name: 'Aula '
+    appendix_name: 'Apêndice '

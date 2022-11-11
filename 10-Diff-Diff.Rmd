@@ -1,1 +1,0 @@
-# Regressão linear simples e múltipla. PLS: Mínimos Quadrados Parciais. Interpretação dos resultados.

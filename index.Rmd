@@ -1,15 +1,19 @@
 ---
-title: "Pesquisa Tecnológica: Qualitativa e Quantitativa & Estatística Aplicada a PI&TT"
+title: 'Pesquisa Tecnológica: Qualitativa e Quantitativa & Estatística Aplicada a
+  PI&TT'
 author: "Equipe de Professores do Profnit"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography:
+- book.bib
+- packages.bib
 biblio-style: apalike
 link-citations: yes
-fontsize: 12pt 
+fontsize: 12pt
 geometry: a4paper
-description: "Material didático para a disciplina de *Pesquisa Tecnológica: Qualitativa e Quantitativa & Estatística Aplicada a PI&TT*."
+description: 'Material didático para a disciplina de *Pesquisa Tecnológica: Qualitativa
+  e Quantitativa & Estatística Aplicada a PI&TT*.'
 ---
 
 # Introdução
@@ -24,7 +28,7 @@ Pressupostos para elaboração do material didático:
 
 -   Foco na análise de dados (foco no operacional da pesquisa).
 
--   Desenvolvimento de tutorais para utilização em ferramentas diversas (Excel, SPSS, R e Python), quando aplicável.
+-   Desenvolvimento de tutorais para utilização em ferramentas diversas (Excel, SPSS, R e Python), quando aplicável. O Prof. Tadeu se compromete a elaborar o material em R e Python.
 
 -   Criação de material didático seguindo o modelo da The WIPO Manual on Open Source Patent Analytics (<https://wipo-analytics.github.io/>), além dos slides tradicicionais.
 
@@ -38,82 +42,54 @@ Pressupostos para elaboração do material didático:
 
 ### Proposta de programa para organização das aulas/encontros
 
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
-| Equipe responsável | Aulas                                                                                                              |
-+====================+====================================================================================================================+
-|                    | Aula 1                                                                                                             |
-|                    |                                                                                                                    |
-|                    | Métodos e técnicas de coleta de dados em pesquisa qualitativa.                                                     |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
-|                    | Aula 2                                                                                                             |
-|                    |                                                                                                                    |
-|                    | Análise e tratamento de informações em pesquisa qualitativa. Métodos de análise qualitativa e análise de conteúdo. |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
-| Tadeu Teixeira     | Aula 3                                                                                                             |
-|                    |                                                                                                                    |
-|                    | Organização dos dados: coleta, limpeza, tratamento e organização. Bases de dados.                                  |
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
-|                    | Aula 4                                                                                                             |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-|                    | Noções de probabilidade. Tipos e natureza das variáveis.                                                           |
-|                    |                                                                                                                    |
-|                    | Inferência causal e contrafactuais em avaliação em políticas públicas.                                             |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
-| Tadeu Teixeira     | Aula 5                                                                                                             |
-|                    |                                                                                                                    |
-|                    | Análise exploratória dos dados e Visualização.  A matriz de variância-covariância. Interpretação dos resultados.   |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
-|   Thiago Moura      | Aula 6                                                                                                             |
-|                    |                                                                                                                    |
-|                    | Tipos e técnicas de amostragens.                                                                                   |
-|                    |                                                                                                                    |
-|                    | Seleção aleatória para avaliação de impacto de políticas públicas.                                                 |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
-|                    | Aula 7                                                                                                             |
-|                    |                                                                                                                    |
-|                    | Testes de hipóteses.                                                                                               |
-|                    |                                                                                                                    |
-|                    | Pareamento em avaliação de políticas públicas.                                                                     |
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
-| Thiago Moura       | Aula 8                                                                                                             |
-|                    |                                                                                                                    |
-|                    | Regressão linear simples e múltipla. PLS: Mínimos Quadrados Parciais. Interpretação dos resultados.                |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
-|                    | Aula 9                                                                                                             |
-|                    |                                                                                                                    |
-|                    | Modelos de classificação: regressão logística.                                                                     |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-|                    | (Ou Regressão Descontínua, mais utilizada em avaliação de políticas públicas)                                      |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
-|                    | Aula 10 -- Diferença em diferenças em avaliação de políticas públicas                                              |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
-| Tadeu  Teixeira   | Aula 11 - Mineração de textos e análise léxica.                                                                    |
-|                    |                                                                                                                    |
-|                    |                                                                                                                    |
-+--------------------+--------------------------------------------------------------------------------------------------------------------+
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Equipe responsável      | Aulas                                                                                                                                                         |
++=========================+===============================================================================================================================================================+
+| Tadeu - Material Pronto | Aula 1                                                                                                                                                        |
+|                         |                                                                                                                                                               |
+|                         | Nivelamento em linguagem R (Vamos incluir Python também). Material disponível a partir [dessa página](https://tadeugomes.github.io/intro-analise-dados-adm/). |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                         | Aula 2                                                                                                                                                        |
+|                         |                                                                                                                                                               |
+|                         | Métodos e técnicas de coleta de dados em pesquisa qualitativa.                                                                                                |
+|                         |                                                                                                                                                               |
+|                         |                                                                                                                                                               |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                         | Aula 3                                                                                                                                                        |
+|                         |                                                                                                                                                               |
+|                         | Análise e tratamento de informações em pesquisas qualitativas. Métodos de análise qualitativa e análise de conteúdo.                                          |
+|                         |                                                                                                                                                               |
+|                         |                                                                                                                                                               |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Tadeu -Material Pronto  | Aula 4                                                                                                                                                        |
+|                         |                                                                                                                                                               |
+|                         | Mineração de textos e análise léxica.                                                                                                                         |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Tadeu - Material Pronto | Aula 5                                                                                                                                                        |
+|                         |                                                                                                                                                               |
+|                         | Análise exploratória e visualização de dados.  Matriz de variância-covariância. Interpretação dos resultados.                                                 |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                         | Aula 6                                                                                                                                                        |
+|                         |                                                                                                                                                               |
+|                         | Noções de probabilidade.                                                                                                                                      |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                         | Aula 7                                                                                                                                                        |
+|                         |                                                                                                                                                               |
+|                         | Tipos e técnicas de amostragens.                                                                                                                              |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                         | Aula 8                                                                                                                                                        |
+|                         |                                                                                                                                                               |
+|                         | Testes de hipótese.                                                                                                                                           |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                         | Aula 9                                                                                                                                                        |
+|                         |                                                                                                                                                               |
+|                         | Regressão linear simples e múltipla.                                                                                                                          |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                         | Aula 10                                                                                                                                                       |
+|                         |                                                                                                                                                               |
+|                         | Modelos de classificação: regressão logística.                                                                                                                |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                         | Aula 11                                                                                                                                                       |
+|                         |                                                                                                                                                               |
+|                         | Análise de variância                                                                                                                                          |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
